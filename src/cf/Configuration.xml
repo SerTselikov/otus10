@@ -397,6 +397,7 @@
 			<CommonModule>УведомленияСервер</CommonModule>
 			<CommonModule>ТестированиеБлокировок</CommonModule>
 			<CommonModule>ОбщегоНазначенияУК</CommonModule>
+			<CommonModule>МойНовыйМодуль</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
